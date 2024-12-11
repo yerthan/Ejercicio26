@@ -16,5 +16,8 @@
 <a href="ejercicio5.jsp">Ejercicio5</a>
 <a href="ejercicio6.jsp">Ejercicio6</a>
 <a href="Ejercicio7.jsp">Ejercicio7</a>
+<a href="Ejercicio8.jsp">Ejercicio8</a>
+<a href="ejercicio9.jsp">Ejercicio9</a>
+<a href="ejercicio10.jsp">Ejercicio10</a>
 </body>
 </html>

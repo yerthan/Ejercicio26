@@ -15,7 +15,7 @@
 <form method="post" action="tablaMultiplicar.jsp">
   Selecciona la tabla de multiplicar que quieres imprimir
     <input type="text" id="numero1" name="numero" required>
-    <button type="button">Enviar</button>
+    <button type="submit">Enviar</button>
 </form>
 
 </body>

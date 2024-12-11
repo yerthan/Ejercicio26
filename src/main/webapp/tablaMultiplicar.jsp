@@ -18,7 +18,6 @@
     if(numero == null){
         out.println("El valor no vale");
     }else{
-        out.println("Si se puede coger el valor, ahora vamos a ver, si es un numero entre el 1 y 10");
         if(numero >= 0 && numero <=10){
             out.println("El valor es correcto");
         }
