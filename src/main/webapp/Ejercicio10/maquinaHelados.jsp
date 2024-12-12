@@ -90,6 +90,6 @@
 <% } %>
 
 <br>
-<input type="submit" value="Volver hacer otro helado" src="ejercicio10.jsp">
+<input src="ejercicio10.jsp" type="submit" value="Volver hacer otro helado" >
 </body>
 </html>

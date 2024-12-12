@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>Ejercicio1</title>
-    <link rel="stylesheet" type="text/css" href="style/style1.css">
+    <link rel="stylesheet" type="text/css" href="../style/style1.css">
 </head>
 <body>
     <h1>Mostrando datos</h1>

@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<form method="post" action="configuracionCoche.jsp">
+<form method="post" action="../Ejercicio9/configuracionCoche.jsp">
   <h2>VAMOS A CONFIGRAR TU COCHE!!!!</h2>
   <label for="tapiceria">¿Que cólor quieres para la tapicera ?</label>
   <select id="tapiceria" name="tapiceria">

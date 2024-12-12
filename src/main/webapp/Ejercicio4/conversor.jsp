@@ -15,8 +15,8 @@
   String valor = request.getParameter("dinero");
   if(valor != null){
       Double conversion = Double.parseDouble(valor);
-      double valorTotal = conversion *0.9;
-      out.println(conversion + "Este es el valor que tendrá el euro");
+      double valorTotal = conversion *0.95;
+      out.println(valorTotal + "Este es el valor que tendrá el euro");
   }else{
       out.println("error");
   }
